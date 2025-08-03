@@ -1,10 +1,22 @@
-# 👋 Hi, I'm Suraj Kumar Chaudhury
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&color=00F2FF&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Suraj+Kumar+Chaudhury;Full+Stack+Web+Developer;B.Tech+CSE+%7C+2nd+Year;Passionate+about+Learning+%26+Building" alt="Typing SVG" />
+</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F2FF&width=435&lines=Full+Stack+Web+Developer;Passionate+about+learning+%26+building)
+<h3 align="center">B.Tech CSE | Full Stack Developer | Techno Main Salt Lake</h3>
 
-### 🎓 B.Tech CSE | 2nd Year @ Techno Main Salt Lake
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SurajKumarChaudhury&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
+</p>
 
-🚀 I’m a Full Stack Developer always aiming high and deeply believing in education as the most powerful tool of mankind — to keep learning, building, and growing.
+---
+
+## 🙋‍♂️ About Me
+
+💡 I’m a passionate full-stack developer and 2nd-year B.Tech CSE student at **Techno Main Salt Lake**.  
+💬 I love building full-stack applications and believe that **education is the most powerful tool of mankind**.  
+🚀 I’m always exploring new tech and pushing myself beyond limits.
+
+📫 **Reach me at**: `your.email@example.com`
 
 ---
 
@@ -19,74 +31,68 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-ffb13b?style=for-the-badge)
-
-**Databases & APIs:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-555555?style=for-the-badge&logo=EJS&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
 
-**Security & Auth:**  
-![Auth0](https://img.shields.io/badge/Auth%20%26%20Security-292929?style=for-the-badge&logo=auth0&logoColor=white)
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Authentication & Security:**  
+🔐 Handling Credentials, Designing Secure Logins
 
 ---
 
-## 📌 Highlight Projects
+## 🚀 Highlight Projects
 
-- 💖 [Love Calculator (Node.js)](https://github.com/SurajKumarChaudhury/love-calculator-nodejs)
-- 🧠 [Psychology Test App](https://github.com/SurajKumarChaudhury/psychology-test)
-- 🌐 [Personal Portfolio Website](https://github.com/SurajKumarChaudhury/portfolio)
-
-> *(Feel free to update repo links and descriptions!)*
+- 🔗 [Love Calculator](https://github.com/SurajKumarChaudhury/love-calculator) – Node + PostgreSQL + Authentication  
+- 🔗 [Personality Test Website](https://github.com/SurajKumarChaudhury/personality-test-app) – HTML, JS, React, OpenAI
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajKumarChaudhury&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SurajKumarChaudhury&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajKumarChaudhury&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajKumarChaudhury&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKumarChaudhury&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKumarChaudhury&layout=compact&theme=radical" />
   <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=SurajKumarChaudhury&theme=tokyonight&row=1&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SurajKumarChaudhury&theme=radical&row=1&no-bg=true" />
 </p>
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=SurajKumarChaudhury&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR-CHANNEL)  
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR-HANDLE)
-
-> Replace `YOUR-LINKEDIN`, `YOUR-CHANNEL`, and `YOUR-HANDLE` with your actual links.
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@YOUR-CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🎯 Current Goal
+## 🎯 My Current Goal
 
-To become a **professional full-stack web developer** who delivers modern, scalable, and impactful applications that solve real-world problems.
+> To become a **professional full-stack web developer** who can solve real-world problems and meet current industry needs with strong technical and creative skills.
 
 ---
 
-<p align="center">
-  🚀 Thanks for visiting! Keep building and keep learning!
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 Added animated intro, visitor badge & GitHub trophies 🏆🔥
 
