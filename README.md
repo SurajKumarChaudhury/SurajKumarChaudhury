@@ -58,7 +58,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [**Love Calculator**](https://love-calculator-fotw.onrender.com) | Node.js + PostgreSQL based full-stack project with authentication [The postgredb has expired] |
+| 🔗 [**Love Calculator**](https://love-calculator-fotw.onrender.com) | Node.js + PostgreSQL based full-stack project [The postgredb has expired] |
 | 🔗 [**Child Learning Website**](https://aquamarine-pixie-e1dadc.netlify.app) | Python image and voice generator + Basic frontend  |
 
 ---
@@ -80,7 +80,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/suraj-kumar-chaudhury-78597b324?utm_source=share&utm_campaign+share_via&utm_content=profile&utm_medium=android-app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@YOUR-CHANNEL" target="_blank">
