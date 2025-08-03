@@ -16,7 +16,7 @@
 - 🎓 2nd-year B.Tech CSE student at **Techno Main Salt Lake**  
 - 💻 Passionate **Full Stack Web Developer**  
 - 🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployment**  
-- 📫 Reach me at: `your.email@example.com`  
+- 📫 Reach me at: `surajchaudhury40@gmail.com`  
 - 🌐 Portfolio: Coming Soon!
 
 ---
@@ -58,7 +58,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [**Love Calculator**](https://love-calculator-fotw.onrender.com) | Node.js + PostgreSQL based full-stack project with authentication |
+| 🔗 [**Love Calculator**](https://love-calculator-fotw.onrender.com) | Node.js + PostgreSQL based full-stack project with authentication(update:actually the database in render has expired) |
 | 🔗 [**Child Learning Website**](https://aquamarine-pixie-e1dadc.netlify.app) | React + OpenAI based interactive application |
 
 ---
