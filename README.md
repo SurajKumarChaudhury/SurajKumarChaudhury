@@ -92,7 +92,7 @@
   <a href="https://www.youtube.com/@bodhayati?si=bpvlxtAJood3Wmm8" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
+  <a href="https://x.com/SurajCh82672387" target="_blank">
     <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
