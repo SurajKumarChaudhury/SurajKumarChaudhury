@@ -57,7 +57,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [**Love Calculator**](https://github.com/SurajKumarChaudhury/love-calculator) | Node.js + PostgreSQL based full-stack project with authentication |
+| 🔗 [**Love Calculator**](https://love-calculator-fotw.onrender.com) | Node.js + PostgreSQL based full-stack project with authentication |
 | 🔗 [**Personality Test Website**](https://github.com/SurajKumarChaudhury/personality-test-app) | React + OpenAI based interactive test application |
 
 ---
