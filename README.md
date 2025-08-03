@@ -52,6 +52,12 @@
 - Hashed & Salted Passwords (`bcrypt`)  
 - Secure Form Handling
 
+### ⌨️ Typing Speed  
+
+![Typing Speed](https://img.shields.io/badge/Typing%20Speed-100%2B%20WPM-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Tested on](https://img.shields.io/badge/Tested%20On-Keybr%20%26%20TypeRacer-informational?style=for-the-badge&logo=keyboard&logoColor=white)
+
+
 ---
 
 ## 🚀 Highlight Projects
