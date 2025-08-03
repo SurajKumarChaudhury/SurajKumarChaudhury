@@ -108,5 +108,6 @@
 ---
 
 
-Added animated intro, visitor badge & GitHub trophies 🏆🔥
+"You keep on learning and learning, and preety soon you learn something no one has learned before.
+                                                                                        --- Richard Feyman
 
