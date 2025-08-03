@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Suraj Kumar Chaudhury</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&color=00F2FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Suraj+Kumar+Chaudhury;Full+Stack+Web+Developer;Passionate+about+learning+%26+building" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">B.Tech CSE | Full Stack Developer | Techno Main Salt Lake</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SurajKumarChaudhury&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
+</p>
 
 ---
 
@@ -11,53 +18,26 @@ I strive to grow every day and push myself beyond limits.
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-555555?style=flat)
-
-**Database & API:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
-
-**Security:**  
-🔐 Good understanding of **authentication, credential handling, and secure login systems**.
+*(same tech stack section as before — keep that part unchanged)*
 
 ---
 
 ### 🚀 Highlight Projects
 
-- 🔗 [Love Calculator API](https://github.com/SurajKumarChaudhury/love-calculator-api) — REST API with Node.js and PostgreSQL  
-- 🔗 [Personality Test App](https://github.com/SurajKumarChaudhury/personality-test-app) — Full-stack psychology test web app  
-- 🔗 [Portfolio Website](https://github.com/SurajKumarChaudhury/portfolio) — Personal website with light/dark theme
-
-*(Replace or edit project URLs based on actual repo names)*
+*(same highlight section — update with real links if needed)*
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajKumarChaudhury&show_icons=true&theme=radical" alt="Suraj's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SurajKumarChaudhury&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajKumarChaudhury&theme=radical" alt="Suraj's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajKumarChaudhury&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKumarChaudhury&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajKumarChaudhury&layout=compact&theme=radical" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SurajKumarChaudhury&theme=radical&row=1&no-bg=true" />
 </p>
 
 ---
@@ -84,5 +64,6 @@ I strive to grow every day and push myself beyond limits.
 
 ---
 
-Added professional GitHub profile README 🚀
+Added animated intro, visitor badge & GitHub trophies 🏆🔥
+
 
