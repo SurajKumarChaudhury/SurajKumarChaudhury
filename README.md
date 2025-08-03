@@ -89,7 +89,7 @@
   <a href="https://www.linkedin.com/in/suraj-kumar-chaudhury-78597b324?utm_source=share&utm_campaign+share_via&utm_content=profile&utm_medium=android-app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@YOUR-CHANNEL" target="_blank">
+  <a href="https://www.youtube.com/@bodhayati?si=bpvlxtAJood3Wmm8" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://twitter.com/YOUR-HANDLE" target="_blank">
