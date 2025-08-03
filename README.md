@@ -58,7 +58,7 @@
 | Project | Description |
 |--------|-------------|
 | 🔗 [**Love Calculator**](https://love-calculator-fotw.onrender.com) | Node.js + PostgreSQL based full-stack project with authentication |
-| 🔗 [**Personality Test Website**](https://github.com/SurajKumarChaudhury/personality-test-app) | React + OpenAI based interactive test application |
+| 🔗 [**Child Learning Website**](https://aquamarine-pixie-e1 dadc.netlify.app) | React + OpenAI based interactive test application |
 
 ---
 
