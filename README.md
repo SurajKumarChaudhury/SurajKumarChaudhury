@@ -59,7 +59,7 @@
 | Project | Description |
 |--------|-------------|
 | 🔗 [**Love Calculator**](https://love-calculator-fotw.onrender.com) | Node.js + PostgreSQL based full-stack project with authentication(NOTE: THE DATABASE ON RENDER HAS EXPIRED) |
-| 🔗 [**Child Learning Website**](https://aquamarine-pixie-e1dadc.netlify.app) | React + OpenAI based interactive application |
+| 🔗 [**Child Learning Website**](https://aquamarine-pixie-e1dadc.netlify.app) | Python image and voice generator + Basic frontend  |
 
 ---
 
