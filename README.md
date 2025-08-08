@@ -17,7 +17,7 @@
 🎓 2nd-year B.Tech CSE student at **Techno Main Salt Lake**  
 💻 Full Stack Developer (React • Node.js • PostgreSQL • MongoDB)  
 🌱 Exploring **Next.js**, **TypeScript**, **Cloud Deployment**  
-📧 Reach me: **`surajchaudhury40@gmail.com`**  
+📧 Reach me: **surajchaudhury40@gmail.com**  
 🌐 Portfolio: *Coming Soon!*  
 
 ---
@@ -49,7 +49,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🔐 Security  
-`JWT` • `OAuth (Google)` • `bcrypt` Password Hashing • Secure Form Handling  
+JWT • OAuth (Google) • bcrypt Password Hashing • Secure Form Handling  
 
 ### ⌨ Typing Speed  
 ![Typing Speed](https://img.shields.io/badge/Typing%20Speed-100%2B%20WPM-blue?style=for-the-badge&logo=gnu-bash&logoColor=white)
