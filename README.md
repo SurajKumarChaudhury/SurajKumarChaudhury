@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1200&color=00F2FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Suraj+Kumar+Chaudhury;🚀+Full+Stack+Web+Developer;B.Tech+CSE+%7C+2nd+Year;Passionate+About+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=00F2FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Suraj+Kumar+Chaudhury;🚀+Full+Stack+Web+Developer;B.Tech+CSE+%7C+2nd+Year;Passionate+About+Learning+%26+Building" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,11 +14,11 @@
 ## 👨‍💻 About Me
 
 💡 **Innovator at heart, developer by passion**  
-🎓 **2nd-year B.Tech CSE student** at *Techno Main Salt Lake*  
-💻 Skilled in **React, Node.js, PostgreSQL, MongoDB**  
-🌱 Currently exploring **Next.js**, **TypeScript**, **Cloud Deployment**  
-📧 **Email:** `surajchaudhury40@gmail.com`  
-🌐 **Portfolio:** *Coming Soon*  
+🎓 2nd-year B.Tech CSE student at **Techno Main Salt Lake**  
+💻 Full Stack Developer (React • Node.js • PostgreSQL • MongoDB)  
+🌱 Exploring **Next.js**, **TypeScript**, **Cloud Deployment**  
+📧 Reach me: **`surajchaudhury40@gmail.com`**  
+🌐 Portfolio: *Coming Soon!*  
 
 ---
 
@@ -60,9 +60,9 @@
 ## 🚀 Highlight Projects
 
 | Project | Description |
-|---------|-------------|
-| 🔗 [**Love Calculator**](https://love-calculator-fotw.onrender.com) | Node.js + PostgreSQL based full-stack app *(PostgreSQL DB currently expired)* |
-| 🔗 [**Child Learning Website**](https://aquamarine-pixie-e1dadc.netlify.app) | AI-powered learning site with Python image & voice generator |
+|--------|-------------|
+| 🔗 [**Love Calculator**](https://love-calculator-fotw.onrender.com) | Node.js + PostgreSQL based full-stack project *(PostgreSQL DB currently expired)* |
+| 🔗 [**Child Learning Website**](https://aquamarine-pixie-e1dadc.netlify.app) | Python image & voice generator + interactive frontend |
 
 ---
 
@@ -95,9 +95,9 @@
 
 ## 🎯 2025 Goals
 
-- 🚀 Build **industry-ready full-stack applications**
-- 🌍 Contribute to **open source** & collaborate globally
-- ☁️ Master **Cloud**, **CI/CD**, & **DevOps workflows**
+- 🚀 Build industry-ready full-stack applications  
+- 🌍 Contribute to open source & collaborate with developers worldwide  
+- ☁️ Master **Cloud**, **CI/CD**, and deployment workflows  
 
 ---
 
