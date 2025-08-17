@@ -16,13 +16,24 @@
 
 ## 👨‍💻 About Me
 
-| <p align="left">  
-- 🎓 2nd-year B.Tech CSE student at **Techno Main Salt Lake**  
-- 💻 Passionate **Full Stack Web Developer**  
-- 🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployment**  
-- 📫 Reach me at: surajchaudhury40@gmail.com  
-- 🌐 Portfolio: Coming Soon!  
-</p> | <img src="./robot.gif" alt="Robot Coding" width="300"/> |
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+<div style="flex: 1;">
+
+🎓 2nd-year B.Tech CSE student at **Techno Main Salt Lake**  
+💻 Passionate **Full Stack Web Developer**  
+🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployment**  
+📫 Reach me at: **surajchaudhury40@gmail.com**  
+🌐 Portfolio: *Coming Soon!*  
+
+</div>
+
+<div>
+  <img src="./robot.gif" alt="Robot Coding" width="300"/>
+</div>
+
+</div>
+
 
 ---
 
