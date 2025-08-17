@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-| <p align="left">  
+|****************************************************************** <p align="left">  
 - 🎓 2nd-year B.Tech CSE student at **Techno Main Salt Lake**  
 - 💻 Passionate **Full Stack Web Developer**  
 - 🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud Deployment**  
