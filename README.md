@@ -22,7 +22,6 @@
 - 📫 Reach me at: surajchaudhury40@gmail.com  
 - 🌐 Portfolio: Coming Soon!
 ---
-## ​​​ About Me
 
 ## 🛠️ Tech Stack
 
