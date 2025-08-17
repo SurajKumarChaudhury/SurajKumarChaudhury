@@ -23,7 +23,8 @@
 📫 Reach me at: **surajchaudhury40@gmail.com**  
 🌐 Portfolio: *Coming Soon!*  
 </p> | <img src="./robot.gif" alt="Robot Coding" width="300"/> |
-|---|---|
+
+---
 
 
 
