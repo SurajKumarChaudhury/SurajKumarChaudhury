@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Suraj+Kumar+Chaudhury;Full+Stack+Web+Developer;B.Tech+CSE+%7C+2nd+Year;Passionate+about+Learning+%26+Building" alt="Typing SVG" />
 </h1>
 <p align="center">
-  <img src="./me.PNG" alt="Suraj Kumar Chaudhury" width="200" height="200" style="border-radius:50%"/>
+  <img src="./me.png" alt="Suraj Kumar Chaudhury" width="200" height="200" style="border-radius:50%"/>
 </p>
 
 
