@@ -86,6 +86,7 @@
 | 🔗 [**Child Learning Website**](https://aquamarine-pixie-e1dadc.netlify.app) | Python image and voice generator + Basic frontend  |
 | 🔗 [**Digital Clock**](https://clock-digital-app.netlify.app) | Basic React project[used React (STATE AND REACT HOOKS)] |
 | 🔗 [**To-Do-List**](https://app-listtodo.netlify.app/) | use of complex state in React |
+| 🔗 [**Smriti**](https://smriti-keepnotes.netlify.app/) | “Smriti – A Google Keep clone built with React, CSS, and Material-UI, hosted on Netlify.” |
 
 
 ---
